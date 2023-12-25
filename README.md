@@ -15,10 +15,11 @@ python3 main.py
 ```
 
 # Final visualizations
-![One](report/one.svg)
-![Two](report/two.svg)
-![Three](report/three.svg)
-![Four](report/four.svg)
-![Five](report/five.svg)
-![Six](report/six.svg)
-![Seven](report/seven.svg)
+
+![One](report/one.png)
+![Two](report/two.png)
+![Three](report/three.png)
+![Four](report/four.png)
+![Five](report/five.png)
+![Six](report/six.png)
+![Seven](report/seven.png)
